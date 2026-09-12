@@ -23,9 +23,3 @@ A backend application for managing users and bank transactions. This project pro
 - bcrypt
 - dotenv
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
